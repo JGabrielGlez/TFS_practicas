@@ -1,0 +1,21 @@
+shareId,symbol,companyName,sector,exchange,regUser,regDate,regTime,modUser,modDate,modTime,active,delete
+SHR_TSLA,TSLA,Tesla Inc.,Technology,NASDAQ,root,2022-07-21,03:48:39,null,2024-02-23,02:13:56,true,false
+SHR_AAPL,AAPL,Apple Inc.,Technology,NASDAQ,system,2024-03-14,01:04:36,system,2024-07-26,07:40:32,true,false
+SHR_AMZN,AMZN,Amazon.com Inc.,Consumer Discretionary,NASDAQ,root,2023-07-19,04:06:39,null,null,null,true,false
+SHR_MSFT,MSFT,Microsoft Corp.,Technology,NASDAQ,system,2023-11-18,20:14:50,system,2024-06-17,02:13:20,true,false
+SHR_GOOGL,GOOGL,Alphabet Inc.,Technology,NASDAQ,system,2022-11-25,18:31:24,admin,2023-04-28,18:36:52,true,false
+SHR_META,META,Meta Platforms,Technology,NASDAQ,root,2022-01-30,15:20:28,null,null,null,true,false
+SHR_NVDA,NVDA,NVIDIA Corp.,Technology,NASDAQ,admin,2023-05-24,22:40:46,admin,2023-06-12,09:10:15,true,false
+SHR_BRK,BRK,Berkshire Hathaway,Financials,NYSE,admin,2023-11-28,02:01:29,system,2024-03-07,02:19:26,true,false
+SHR_JPM,JPM,JPMorgan Chase,Financials,NYSE,system,2024-09-14,18:06:31,null,null,null,true,false
+SHR_V,V,Visa Inc.,Financials,NYSE,root,2022-11-20,08:26:28,null,2024-11-11,17:02:34,false,false
+SHR_UNH,UNH,UnitedHealth Group,Health Care,NYSE,root,2022-06-26,15:39:36,system,2023-03-25,10:38:23,true,false
+SHR_JNJ,JNJ,Johnson & Johnson,Health Care,NYSE,system,2023-11-04,16:02:44,null,null,null,true,false
+SHR_XOM,XOM,Exxon Mobil,Energy,NYSE,system,2022-05-18,19:36:22,system,2023-10-01,02:00:53,true,false
+SHR_PG,PG,Procter & Gamble,Consumer Staples,NYSE,root,2022-10-01,09:57:12,system,2022-12-20,20:13:59,true,false
+SHR_MA,MA,Mastercard,Financials,NYSE,system,2023-10-11,02:44:36,null,null,null,true,true
+SHR_HD,HD,Home Depot,Consumer Discretionary,NYSE,system,2024-03-03,16:40:29,system,2024-06-03,21:16:06,true,false
+SHR_CVX,CVX,Chevron,Energy,NYSE,root,2022-02-27,09:33:43,system,2023-02-04,16:54:30,true,false
+SHR_MRK,MRK,Merck & Co.,Health Care,NYSE,root,2024-07-08,08:01:30,null,null,null,true,false
+SHR_ABBV,ABBV,AbbVie Inc.,Health Care,NYSE,admin,2022-03-02,09:02:52,null,2023-07-23,10:32:24,true,false
+SHR_PEP,PEP,PepsiCo,Consumer Staples,NYSE,root,2024-02-26,13:07:50,system,2024-03-08,19:24:38,false,false

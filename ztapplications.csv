@@ -1,0 +1,11 @@
+appId,appName,regUser,regDate,regTime,modUser,modDate,modTime,active,delete
+APP001,Sistema de Inventario,root,2022-05-30,11:01:11,null,2023-02-19,08:29:01,true,false
+APP002,Reportes Gerenciales,root,2022-03-16,10:38:29,admin,2023-07-17,23:20:58,true,false
+APP003,Portal RRHH,system,2024-06-22,19:21:16,null,null,null,true,false
+APP004,Sistema de Ventas,system,2022-07-06,01:48:12,admin,2023-03-31,15:36:15,true,false
+APP005,Contabilidad,admin,2024-05-11,06:24:23,system,2024-12-31,17:29:09,true,false
+APP006,Logística,system,2023-05-10,08:49:53,null,null,null,true,false
+APP007,CRM,admin,2023-01-20,17:31:32,null,2024-04-18,04:14:09,true,false
+APP008,Portal de Calidad,admin,2023-04-12,01:58:12,admin,2024-08-10,03:29:22,true,false
+APP009,Dashboard BI,root,2023-11-19,09:48:23,null,null,null,true,false
+APP010,Sistema de Compras,root,2023-03-02,03:37:34,admin,2023-12-14,03:50:39,false,false

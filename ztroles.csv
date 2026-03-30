@@ -1,0 +1,21 @@
+roleId,roleName,description,regUser,regDate,regTime,modUser,modDate,modTime,active,delete
+ROL001,Administrador,Rol con acceso nivel 1 al sistema,system,2024-12-02,05:06:20,system,2024-12-11,13:09:14,true,false
+ROL002,Supervisor,Rol con acceso nivel 2 al sistema,system,2022-06-11,20:31:02,null,2023-10-10,17:45:57,true,false
+ROL003,Analista,Rol con acceso nivel 3 al sistema,system,2023-08-11,22:37:14,null,null,null,true,false
+ROL004,Operador,Rol con acceso nivel 4 al sistema,root,2023-03-29,11:44:11,admin,2024-06-03,20:17:33,true,false
+ROL005,Auditor,Rol con acceso nivel 5 al sistema,root,2022-05-04,16:11:30,null,2024-01-13,22:28:12,true,false
+ROL006,Gerente,Rol con acceso nivel 6 al sistema,system,2023-05-24,12:06:52,null,null,null,true,false
+ROL007,Consultor,Rol con acceso nivel 7 al sistema,system,2023-11-03,03:39:30,system,2023-11-09,20:15:42,true,false
+ROL008,Soporte,Rol con acceso nivel 8 al sistema,admin,2022-02-12,08:44:42,null,2023-01-15,08:13:45,true,false
+ROL009,Ventas,Rol con acceso nivel 9 al sistema,system,2024-02-12,17:48:39,null,null,null,true,false
+ROL010,Compras,Rol con acceso nivel 10 al sistema,system,2023-06-08,02:41:40,system,2024-03-04,21:21:46,false,false
+ROL011,RRHH,Rol con acceso nivel 11 al sistema,system,2024-04-30,01:32:55,null,2024-08-02,05:41:03,true,false
+ROL012,Finanzas,Rol con acceso nivel 12 al sistema,admin,2022-06-10,18:57:59,null,null,null,true,false
+ROL013,TI,Rol con acceso nivel 13 al sistema,root,2022-07-18,02:11:17,admin,2023-08-02,17:20:34,true,false
+ROL014,Legal,Rol con acceso nivel 14 al sistema,system,2024-04-04,10:07:03,system,2024-04-22,18:03:48,true,false
+ROL015,Logística,Rol con acceso nivel 15 al sistema,admin,2022-03-03,02:35:15,null,null,null,true,true
+ROL016,Producción,Rol con acceso nivel 16 al sistema,admin,2022-05-30,20:54:50,admin,2023-12-22,23:04:20,true,false
+ROL017,Calidad,Rol con acceso nivel 17 al sistema,system,2022-06-27,06:05:44,null,2022-09-17,20:32:29,true,false
+ROL018,Marketing,Rol con acceso nivel 18 al sistema,root,2023-03-19,03:53:02,null,null,null,true,false
+ROL019,Dirección,Rol con acceso nivel 19 al sistema,root,2023-05-10,15:49:02,admin,2024-08-06,02:18:20,true,false
+ROL020,Seguridad,Rol con acceso nivel 20 al sistema,root,2023-01-11,00:30:41,admin,2023-10-13,08:15:15,false,false

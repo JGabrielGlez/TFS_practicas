@@ -1,0 +1,11 @@
+processId,processName,regUser,regDate,regTime,modUser,modDate,modTime,active,delete
+PROC001,Consulta de Stock,admin,2022-01-07,00:27:02,system,2022-08-03,17:52:34,true,false
+PROC002,Entrada de Mercancía,root,2024-08-05,02:31:12,null,2024-10-25,23:12:08,true,false
+PROC003,Generación de Reporte,root,2023-08-28,19:56:36,null,null,null,true,false
+PROC004,Validación de Transacción,system,2024-06-08,16:48:07,system,2024-07-10,00:27:48,true,false
+PROC005,Cierre de Turno,root,2024-03-02,22:57:28,null,2024-10-16,00:44:18,true,false
+PROC006,Apertura de Expediente,root,2022-02-09,07:57:12,null,null,null,true,false
+PROC007,Aprobación de Compra,admin,2024-10-02,20:09:14,admin,2024-12-08,07:29:23,true,false
+PROC008,Auditoría de Accesos,system,2022-07-14,07:29:56,admin,2024-11-20,12:41:28,true,false
+PROC009,Backup de Datos,system,2023-07-28,22:27:37,null,null,null,true,false
+PROC010,Alta de Usuario,system,2022-08-27,19:19:08,admin,2023-02-21,01:03:54,false,false
